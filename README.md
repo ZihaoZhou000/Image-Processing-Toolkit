@@ -10,7 +10,7 @@ Users can use menu and button to do the following operations：
 
 ![图片1](https://user-images.githubusercontent.com/54859964/122862143-aeb3cb00-d2ee-11eb-81d7-2a473d87af51.png)
 
-A window will pop if there are parameters to pass or if there is a warning.
+A window will pop if there are any parameters to pass.
 
 ![图片2](https://user-images.githubusercontent.com/54859964/122862387-09e5bd80-d2ef-11eb-8b5f-b2f3d97909c7.png)
 
