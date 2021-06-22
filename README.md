@@ -1,4 +1,4 @@
-# Image-Processing-Toolkit
+# Image Processing Toolkit
 
 ### Functions
 Users can use menu and button to do the following operations：
